@@ -10,7 +10,7 @@ url = "https://newsapi.org/v2/everything"
 
 # リクエスト送信するためのパラメータ
 params = {
-    'q': '失敗',  # 検索ワード
+    'q': '',  # 検索ワード　任意のワードをここに入れる
     'apiKey':'' # 自分のAPIキー
 }
 
